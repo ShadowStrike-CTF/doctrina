@@ -1,6 +1,6 @@
 # Doctrina
 
-Legal doctrine study and retention. by Strategos.
+Namespace stub. by Strategos.
 
 GitHub: https://github.com/ShadowStrike-CTF/doctrina
 
